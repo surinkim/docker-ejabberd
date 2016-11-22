@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Hyunun Kim <nnhope@hotmail.com>
+MAINTAINER Hyunuk Kim <nnhope@hotmail.com>
 
 # basic install
 RUN apt-get update
